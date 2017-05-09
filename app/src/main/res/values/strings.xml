@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AgendaFirebase</string>
+    <string name="eId">Id</string>
+    <string name="eNombre">Nombre</string>
+    <string name="eTelefono">Telefono</string>
+    <string name="eCorreo">Correo</string>
+    <string name="guardar">Guardar</string>
+    <string name="buscar">Buscar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="ver">Ver Contactos</string>
+</resources>
